@@ -695,7 +695,6 @@ Check out the [documentation](https://developer.mozilla.org/en-US/docs/Learn/HTM
 
   const userSchema = new Schema(
     {
-      username: String,
       email: String,
       password:  String,
     },
